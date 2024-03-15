@@ -1,3 +1,5 @@
+USE BaseDeChistes;
+
 -- Crear usuarios
 INSERT INTO Usuarios (Nombre, Contrasena) VALUES ('Manolito', 'Contrasena');
 INSERT INTO Usuarios (Nombre, Contrasena) VALUES ('Pepe', 'Contrasena');
